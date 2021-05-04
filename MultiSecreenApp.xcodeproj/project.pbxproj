@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A04E5BE2632FDE9009FA3FF /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A04E5BD2632FDE9009FA3FF /* SignInViewController.swift */; };
+		8A04E5C12632FE11009FA3FF /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A04E5C02632FE11009FA3FF /* SignUpViewController.swift */; };
+		8A8159672626F4D0009516B6 /* ExpensesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A8159662626F4CE009516B6 /* ExpensesViewController.swift */; };
+		8A9BCE1F2627377E005539C4 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A9BCE1E2627377E005539C4 /* ProfileViewController.swift */; };
+		8AB3D03A2628CDA100973892 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB3D0392628CDA100973892 /* SearchViewController.swift */; };
+		8AB3D0412629038600973892 /* SearchTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB3D0402629038600973892 /* SearchTableViewCell.swift */; };
+		8AB3D044262910EC00973892 /* ExchangeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB3D043262910EC00973892 /* ExchangeViewController.swift */; };
+		8AB3D0472629112B00973892 /* ExchangeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB3D0462629112B00973892 /* ExchangeTableViewCell.swift */; };
+		8AC437ED261DB8F200307D87 /* HomeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC437EC261DB8F200307D87 /* HomeTableViewCell.swift */; };
 		8ACAFB5C261C93CD0029FF4A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACAFB5B261C93CD0029FF4A /* AppDelegate.swift */; };
 		8ACAFB5E261C93CD0029FF4A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACAFB5D261C93CD0029FF4A /* SceneDelegate.swift */; };
 		8ACAFB60261C93CD0029FF4A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ACAFB5F261C93CD0029FF4A /* ViewController.swift */; };
@@ -16,6 +25,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8A04E5BD2632FDE9009FA3FF /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
+		8A04E5C02632FE11009FA3FF /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		8A8159662626F4CE009516B6 /* ExpensesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpensesViewController.swift; sourceTree = "<group>"; };
+		8A9BCE1E2627377E005539C4 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		8AB3D0392628CDA100973892 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		8AB3D0402629038600973892 /* SearchTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchTableViewCell.swift; sourceTree = "<group>"; };
+		8AB3D043262910EC00973892 /* ExchangeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExchangeViewController.swift; sourceTree = "<group>"; };
+		8AB3D0462629112B00973892 /* ExchangeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExchangeTableViewCell.swift; sourceTree = "<group>"; };
+		8AC437EC261DB8F200307D87 /* HomeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewCell.swift; sourceTree = "<group>"; };
 		8ACAFB58261C93CD0029FF4A /* MultiSecreenApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiSecreenApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8ACAFB5B261C93CD0029FF4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8ACAFB5D261C93CD0029FF4A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +78,15 @@
 				8ACAFB5D261C93CD0029FF4A /* SceneDelegate.swift */,
 				8ACAFB5F261C93CD0029FF4A /* ViewController.swift */,
 				8ACAFB61261C93CD0029FF4A /* Main.storyboard */,
+				8A04E5BD2632FDE9009FA3FF /* SignInViewController.swift */,
+				8A04E5C02632FE11009FA3FF /* SignUpViewController.swift */,
+				8AB3D0462629112B00973892 /* ExchangeTableViewCell.swift */,
+				8AB3D043262910EC00973892 /* ExchangeViewController.swift */,
+				8AB3D0392628CDA100973892 /* SearchViewController.swift */,
+				8A9BCE1E2627377E005539C4 /* ProfileViewController.swift */,
+				8A8159662626F4CE009516B6 /* ExpensesViewController.swift */,
+				8AC437EC261DB8F200307D87 /* HomeTableViewCell.swift */,
+				8AB3D0402629038600973892 /* SearchTableViewCell.swift */,
 				8ACAFB64261C94C20029FF4A /* Assets.xcassets */,
 				8ACAFB66261C94C20029FF4A /* LaunchScreen.storyboard */,
 				8ACAFB69261C94C20029FF4A /* Info.plist */,
@@ -137,8 +164,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A04E5BE2632FDE9009FA3FF /* SignInViewController.swift in Sources */,
+				8A9BCE1F2627377E005539C4 /* ProfileViewController.swift in Sources */,
+				8AB3D03A2628CDA100973892 /* SearchViewController.swift in Sources */,
 				8ACAFB60261C93CD0029FF4A /* ViewController.swift in Sources */,
 				8ACAFB5C261C93CD0029FF4A /* AppDelegate.swift in Sources */,
+				8AB3D044262910EC00973892 /* ExchangeViewController.swift in Sources */,
+				8A04E5C12632FE11009FA3FF /* SignUpViewController.swift in Sources */,
+				8AC437ED261DB8F200307D87 /* HomeTableViewCell.swift in Sources */,
+				8AB3D0412629038600973892 /* SearchTableViewCell.swift in Sources */,
+				8A8159672626F4D0009516B6 /* ExpensesViewController.swift in Sources */,
+				8AB3D0472629112B00973892 /* ExchangeTableViewCell.swift in Sources */,
 				8ACAFB5E261C93CD0029FF4A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
